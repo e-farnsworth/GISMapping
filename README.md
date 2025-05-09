@@ -21,7 +21,6 @@ Working environment
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [List of state capitals](https://en.wikipedia.org/wiki/List_of_state_and_territorial_capitols_in_the_United_States)
 * [How to Group and Summarize Data in R](https://www.statology.org/group-summarize-data-r/)
 * [How to Export a Data Frame to a CSV File in R](https://www.statology.org/export-data-frame-to-csv-in-r/)
